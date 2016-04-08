@@ -1,0 +1,13 @@
+{
+  "name": "Setpoint_f32",
+  "description": "A generic setpoint",
+  "namespace": "@",
+  "fields": [
+    {
+      "name": "value",
+      "description": "The value",
+      "type": "FLOAT32",
+      "size": 1
+    }
+  ]
+}

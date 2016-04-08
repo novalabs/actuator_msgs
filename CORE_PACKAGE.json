@@ -1,0 +1,5 @@
+{
+  "name": "actuator_msgs",
+  "namespace": "@",
+  "description": "Actuator messages"
+}
