@@ -1,5 +1,5 @@
 {
   "name": "actuator_msgs",
-  "namespace": "@",
-  "description": "Actuator messages"
+  "description": "Actuator messages",
+  "provider": "core"
 }
